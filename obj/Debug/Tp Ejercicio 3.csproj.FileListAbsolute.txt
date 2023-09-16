@@ -1,0 +1,11 @@
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp Ejercicio 3\bin\Debug\Tp Ejercicio 3.exe.config
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp Ejercicio 3\bin\Debug\Tp Ejercicio 3.exe
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp Ejercicio 3\bin\Debug\Tp Ejercicio 3.pdb
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp Ejercicio 3\obj\Debug\Tp Ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp Ejercicio 3\obj\Debug\Tp_Ejercicio_3.Form1.resources
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp Ejercicio 3\obj\Debug\Tp_Ejercicio_3.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp Ejercicio 3\obj\Debug\Tp Ejercicio 3.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp Ejercicio 3\obj\Debug\Tp Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp Ejercicio 3\obj\Debug\Tp Ejercicio 3.exe
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp Ejercicio 3\obj\Debug\Tp Ejercicio 3.pdb
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp Ejercicio 3\obj\Debug\Tp_Ejercicio_3.Form2.resources
